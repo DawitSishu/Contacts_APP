@@ -1,6 +1,7 @@
-# contact
+# Contacts App
 
-A new Flutter project.
+A simple contacts app written in Flutter.
+
 
 ## Getting Started
 
